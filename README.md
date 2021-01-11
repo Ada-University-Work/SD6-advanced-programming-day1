@@ -30,3 +30,14 @@ Prompt the user for the length and width of a room in feet and then display the 
 
 ***Status:***
 I have completed this exercise and the extensions. I had difficulty on the extension task to confirm if the room sizes given were numeric. I had to take the input as a string and loop through the string and then use the isdigit() function to check if it was a number. I abstracted this out into a seperate function to improve readability. I also added to this function so that decimal numbers would be accepted. Although this does mean if the user were to enter '..' when asked for a number that the programme would incorrectly identify it as a valid number. I also completed the extension allowing the user to enter the room dimensions in metres or feet, this made a lot of changes to the code because I had to use string interpolation in the outputs to ensure the correct units were used.
+
+## 1-2B
+
+### Exercise 4
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2B-Exercise-4#main.cpp "code for exercise 4")
+
+***Task:***
+Check if a number input by the user is odd or even using the modulous operator (%). The extension is to allow a decimal value to be entered.
+
+***Status:***
+I have completed the exercise and the extension. The extension task to allow decimal values to be entered is confusing since decimal numbers cannot be considered neither odd or even [evidence](https://math.stackexchange.com/questions/92451/can-decimal-numbers-be-considered-even-or-odd). Therefor I just assumed this meant that the programme should only accept decimal numbers if the number after the decimal is 0 since it is still a whole number.
