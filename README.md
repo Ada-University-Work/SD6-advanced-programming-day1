@@ -60,5 +60,14 @@ Prompt the user for their age and resting heart rate then use the Karvonen formu
 ***Status:***
 I have completed the exercise and the extension. I had difficulty validating the input until I found the `if( !( cin >> var)){error}` method that checks if cin is the same data type of var.
 
+## 1-2C
 
+### Exercise 7
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2C-Exercise-7#main.cpp "code for exercise 7")
+
+***Task:***
+Prompt the user to enter numerical values or q to quit, the programe should count the number of positive, negative and 0 numbers given. This should be displayed once the user has quit.
+
+***Status:***
+I have completed the exercise and completed manual testing using a range of inputs and found no bugs or errors. There was no extension given for this task.
 
