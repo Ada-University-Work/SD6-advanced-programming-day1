@@ -51,7 +51,14 @@ Prompt the user for their current age and the age they want to retire at. Calcul
 ***Status:***
 I have completed the exercise and the extension. I had to get the current year by including the ctime library and calculating the year using the seconds since 1990. I found no bugs with the code.
 
+### Exercise 6
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2B-Exercise-6#main.cpp "code for exercise 6")
 
+***Task:***
+Prompt the user for their age and resting heart rate then use the Karvonen formular to determine the target heart rate for stepped intensities from 40% to 95% using a for loop to increment the percentage values. The extension is to change the for loop to a do/while loop.
+
+***Status:***
+I have completed the exercise and the extension. I had difficulty validating the input until I found the `if( !( cin >> var)){error}` method that checks if cin is the same data type of var.
 
 
 
