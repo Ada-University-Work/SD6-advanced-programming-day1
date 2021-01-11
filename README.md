@@ -41,3 +41,17 @@ Check if a number input by the user is odd or even using the modulous operator (
 
 ***Status:***
 I have completed the exercise and the extension. The extension task to allow decimal values to be entered is confusing since decimal numbers cannot be considered neither odd or even [evidence](https://math.stackexchange.com/questions/92451/can-decimal-numbers-be-considered-even-or-odd). Therefor I just assumed this meant that the programme should only accept decimal numbers if the number after the decimal is 0 since it is still a whole number.
+
+### Exercise 5
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2B-Exercise-5#main.cpp "code for exercise 5")
+
+***Task:***
+Prompt the user for their current age and the age they want to retire at. Calculate the number of years remaining until the user can retire and output the result in the specified format. The extension is to give different outputs when the user is at or past their stated retirement age.
+
+***Status:***
+I have completed the exercise and the extension. I had to get the current year by including the ctime library and calculating the year using the seconds since 1990. I found no bugs with the code.
+
+
+
+
+
