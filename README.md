@@ -84,7 +84,7 @@ I have completed the exercise and completed the extension to prevent the user fr
 [Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2C-Exercise-9#main.cpp "code for exercise 9")
 
 ***Task:***
-
+Prompt the user to enter a character and then output wether the character is alphabetic, decimal or special. Extension is to use getchar() instead of cin.
 
 ***Status:***
-
+I have completed the main task with no bugs or issues. I attempted the extension but when using the getchar() function it doesn;t work correctly, with version is in file exercise-9-1.cpp and the repl.it is [here](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2C-Exercise-9-1#main.cpp)
