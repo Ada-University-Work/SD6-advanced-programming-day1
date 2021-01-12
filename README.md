@@ -71,3 +71,20 @@ Prompt the user to enter numerical values or q to quit, the programe should coun
 ***Status:***
 I have completed the exercise and completed manual testing using a range of inputs and found no bugs or errors. There was no extension given for this task.
 
+### Exercise 8
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2C-Exercise-8#main.cpp "code for exercise 8")
+
+***Task:***
+Ask the user for a numerical input until they enter 'q' to quit. Out put the highest and the lowest values detected without using in-built functions. Extension is to prevent the user from entering the same number multiple times.
+
+***Status:***
+I have completed the exercise and completed the extension to prevent the user from entering the same number multiple times. The exercise was quite challenging because of the requirement not to use the built in functionality like highest(). It means the code is a lot longer. To complete the extension I used a set to store the users inputs. I had no need to store the users inputs to complete the main task so I used alternative methods to save save memory. But, now that I am storing the users inputs I could refactor those methods to make the code more concise.
+
+### Exercise 9
+[Link to the repl.it](https://repl.it/@CharlieHodgkin1/SD6-Workshop-1-2C-Exercise-9#main.cpp "code for exercise 9")
+
+***Task:***
+
+
+***Status:***
+
